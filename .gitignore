@@ -1,0 +1,10 @@
+# ignore all .class files
+*.class
+
+bin/
+
+*~
+
+.metadata
+
+.settings
